@@ -4,6 +4,8 @@ A React to-do list app with Redux(and Redux Thunk), Bootstrap 4, additional plug
 
 *The API object in src/utils/app.js is there to sample a possible api.*
 
+[View project](https://tone4hook.github.io/react-redux-todo-list/)
+
 ## Getting Started
 
 Download, clone, or fork the repo.
